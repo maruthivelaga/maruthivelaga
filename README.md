@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maruthivelaga
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning dsa
-- 📫 How to reach me linkedin
+- 📫 How to reach me linkedin maruthivelaga
 - 😄 Pronouns: maruthi
 - ⚡ Fun fact: vibecoder
 
