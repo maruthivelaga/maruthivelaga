@@ -1,11 +1,74 @@
-- 👋 Hi, I’m @maruthivelaga
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning dsa
-- 📫 How to reach me linkedin maruthivelaga
-- 😄 Pronouns: maruthi
-- ⚡ Fun fact: vibecoder
+<h1 align="center">Hi 👋, I'm Maruthi Velaga</h1>
+<h3 align="center">Computer Science Student | DSA Learner | Aspiring Software Engineer</h3>
 
-<!---
-maruthivelaga/maruthivelaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👨‍💻 About Me
+
+I am a focused and disciplined Computer Science student with a strong interest in **Data Structures, Algorithms, and problem-solving**.  
+I believe in building **solid fundamentals**, writing **clean logic**, and improving through **consistent practice**.
+
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 🧠 Interested in problem solving and core CS concepts
+- ⚡ Fun fact: I’m a *vibecoder* — peak focus, peak productivity
+
+---
+
+## 🧩 What I’m Learning Right Now
+
+- **Data Structures:** Arrays, Linked Lists, Stacks, Queues, Trees  
+- **Algorithms:** Searching, Sorting, Recursion, Basics of DP  
+- **Patterns:** Two Pointers, Sliding Window, Frequency Maps  
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+- C / C++
+- Python
+- Java (Basics)
+
+### Core Concepts
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Basic Database Concepts  
+
+### Tools
+- Git & GitHub  
+- VS Code  
+- Linux (Basics)  
+
+---
+
+## 📊 GitHub Stats (Dark Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maruthivelaga&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthivelaga&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🎯 Goals
+
+- Strengthen DSA fundamentals deeply  
+- Practice consistently and mindfully  
+- Build meaningful projects  
+- Prepare confidently for technical interviews & placements  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/maruthivelaga  
+
+---
+
+## ⭐ Philosophy
+
+> *Consistency beats intensity. Small progress every day builds mastery.*
+
+---
+
+**Pronouns:** Maruthi  
