@@ -25,9 +25,9 @@ I believe in building **solid fundamentals**, writing **clean logic**, and impro
 ## 🛠️ Technical Skills
 
 ### Languages
-- C / C++
+- C 
 - Python
-- Java (Basics)
+- Java 
 
 ### Core Concepts
 - Data Structures & Algorithms  
