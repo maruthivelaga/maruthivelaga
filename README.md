@@ -43,11 +43,8 @@ I believe in building **solid fundamentals**, writing **clean logic**, and impro
 
 ## 📊 GitHub Stats (Dark Theme)
 
-![Maruthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maruthivelaga&show_icons=true&theme=default&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maruthivelaga&theme=tokyo-night)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruthivelaga&layout=compact&theme=default&hide_border=true)
-
----
 
 
 ---
